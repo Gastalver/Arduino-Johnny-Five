@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "nodebot-workshop" : "node ./node_modules/nodebot-workshop/nodebot-workshop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "johnny-five": "^0.10.2"
+    "johnny-five": "^0.10.2",
+    "nodebot-workshop": "^3.2.0"
   }
 }
