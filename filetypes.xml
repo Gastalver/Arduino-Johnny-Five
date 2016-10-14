@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="xxx" type="HTML" />
+      <mapping pattern="serverFTP" type="JavaScript" />
+      <mapping pattern="modulo_fs" type="JavaScript" />
+      <mapping ext="jade" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

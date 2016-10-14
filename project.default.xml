@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="JsBowerSettings">
+        <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+        <config-path />
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+        <property name="last_opened_file_path" value="E:/dev/angular" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
